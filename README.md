@@ -4,12 +4,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=alana-price&theme=date_night&hide_border=true&background=FFFFFF00">
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=alana-price&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=alana-price&repo=pixel-weather">
-</p> -->
-
-
 <!--
 **alana-price/alana-price** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
